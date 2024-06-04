@@ -1,0 +1,10 @@
+D:\dotNet\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe.config
+D:\dotNet\Snake Game (o.o)\bin\Debug\Snake Game (o.o).exe
+D:\dotNet\Snake Game (o.o)\bin\Debug\Snake Game (o.o).pdb
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake Game Classic.csproj.AssemblyReference.cache
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Form1.resources
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake_Game__o.o_.Properties.Resources.resources
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake Game Classic.csproj.GenerateResource.cache
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake Game Classic.csproj.CoreCompileInputs.cache
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake Game (o.o).exe
+D:\dotNet\Snake Game (o.o)\obj\Debug\Snake Game (o.o).pdb
